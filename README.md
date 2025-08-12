@@ -37,8 +37,7 @@ As expected, the Random Forest model achieved a slightly higher accuracy, which 
 The feature importances were extracted from the trained Random Forest model to understand which features were most influential in the classification task.
 
 Top 10 Feature Importances:
-
-                 feature  importance
+                 Feature  importance
 7    mean concave points    0.1419
 27  worst concave points    0.1271
 23            worst area    0.1182
